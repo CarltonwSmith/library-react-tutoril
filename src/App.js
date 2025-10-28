@@ -8,6 +8,6 @@ function App() {
     test  
     </div>
   );
-}
+} 
 
 export default App;
